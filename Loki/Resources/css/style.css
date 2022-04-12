@@ -9,3 +9,14 @@ body {
     font-size: 50px;
     color: #ffffff;
 }
+
+.header--secondary{
+    font-weight: normal;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.link--phl{
+    font-size: 16px;
+    color: aquamarine;
+}
